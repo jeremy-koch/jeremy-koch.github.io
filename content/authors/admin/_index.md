@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Theoretical and Applied Mechanics
     institution: UIUC
-    year: 2012
+    year: 2017
   - course: MS in Mechanical & Aerospace Engineering
     institution: Princeton University
-    year: 2009
+    year: 2013
   - course: BS in Mechanical Engineering
     institution: UIUC
     year: 2009
