@@ -22,8 +22,8 @@ bio: S
 
 interests:
 - Soft/active/programmable matter
-- Computational Linguistics
-- Information Retrieval
+- C
+- G
 
 education:
   courses:
