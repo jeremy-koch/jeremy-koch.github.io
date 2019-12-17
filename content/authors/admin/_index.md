@@ -15,13 +15,13 @@ role: Postdoctoral Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Colorado Boulder
-  url: ""
+  url: "https://www.colorado.edu/research/rpmgroup/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-- Soft/active/programmable matter
+- Soft matter
 - Rheology
 - Fluid mechanics
 
