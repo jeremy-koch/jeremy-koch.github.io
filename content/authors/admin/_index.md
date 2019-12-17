@@ -22,8 +22,8 @@ bio: S
 
 interests:
 - Soft/active/programmable matter
-- C
-- G
+- Rheology
+- Fluid mechanics
 
 education:
   courses:
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=Did2eqcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jeremy-koch
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
