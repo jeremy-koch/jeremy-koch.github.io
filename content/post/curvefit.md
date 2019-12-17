@@ -1,6 +1,8 @@
 ---
-title: "Fitting to models that are difficult to implement"
+title: "Model fits that are difficult to implement"
 date: 2019-03-26T08:47:11+01:00
 draft: false
 ---
-See:https://hub.gke.mybinder.org/user/jeremy-koch-jupyters-lsmrf5c0/notebooks/CurveFitting.ipynb
+The link below should take you to mybinder.org, which hosts a fully interactive notebook with some non-trivial examples of model fitting with Python.
+
+https://mybinder.org/v2/gh/jeremy-koch/jupyters/master?filepath=CurveFitting.ipynb
